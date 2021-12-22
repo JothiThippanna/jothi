@@ -1,0 +1,5 @@
+URL: http://localhost:8888/index.php?action=index&module=Home
+browser: chrome
+username: admin
+Password: admin
+organisationname: Testyantra

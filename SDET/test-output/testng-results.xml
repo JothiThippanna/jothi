@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="60033" started-at="2021-12-15T13:18:25 IST" finished-at="2021-12-15T13:19:25 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="60033" started-at="2021-12-15T13:18:25 IST" finished-at="2021-12-15T13:19:25 IST">
+      <class name="com.crm.vtiger.CreateOrgTest">
+        <test-method status="PASS" signature="launchTheBrowser(java.lang.String)[pri:0, instance:com.crm.vtiger.CreateOrgTest@4abdb505]" name="launchTheBrowser" is-config="true" duration-ms="27156" started-at="2021-12-15T13:18:25 IST" finished-at="2021-12-15T13:18:52 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchTheBrowser -->
+        <test-method status="PASS" signature="createLogin()[pri:0, instance:com.crm.vtiger.CreateOrgTest@4abdb505]" name="createLogin" is-config="true" duration-ms="11260" started-at="2021-12-15T13:18:52 IST" finished-at="2021-12-15T13:19:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLogin -->
+        <test-method status="PASS" signature="createOrg()[pri:0, instance:com.crm.vtiger.CreateOrgTest@4abdb505]" name="createOrg" duration-ms="16478" started-at="2021-12-15T13:19:03 IST" finished-at="2021-12-15T13:19:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrg -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.crm.vtiger.CreateOrgTest@4abdb505]" name="logout" is-config="true" duration-ms="4371" started-at="2021-12-15T13:19:20 IST" finished-at="2021-12-15T13:19:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.crm.vtiger.CreateOrgTest@4abdb505]" name="closeBrowser" is-config="true" duration-ms="677" started-at="2021-12-15T13:19:24 IST" finished-at="2021-12-15T13:19:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.crm.vtiger.CreateOrgTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

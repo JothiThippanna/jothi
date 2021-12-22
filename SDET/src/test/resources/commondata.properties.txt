@@ -1,0 +1,5 @@
+URL: www.whatsapp.com
+browser:chrome
+username: jothi
+Password: Jothi
+
